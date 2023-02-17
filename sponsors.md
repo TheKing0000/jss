@@ -1,6 +1,6 @@
 # Sponsors
 
-JSS is an Open Source project that is maintained thanks to contributors and sponsors.
+JSS is an Open Source project that is maintained thanks to contributors and sponsors .
 
 Maintainers invest their spare time to improve and maintain the project. It helps a lot to know that the time spent doing this instead of working for clients is worth something.
 
